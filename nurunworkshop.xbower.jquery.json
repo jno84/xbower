@@ -7,14 +7,14 @@
       "tutoriel",
       "nurun"
    ],
-   "version":"1.0.2",
+   "version":"1.0.3",
    "author":{
       "name":"Jean-Noel Benoit",
       "url":"https://github.com/jno84/xbower/blob/master/AUTHORS.txt"
    },
    "maintainers":[
       {
-         "name":"Martin",
+         "name":"Martin Cayouette",
          "email":"toto@gmail.com",
          "url":"http://google.com"
       }
