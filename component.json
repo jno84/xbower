@@ -1,0 +1,14 @@
+{
+  "name": "WorkshopjQueryBower",
+  "version": "0.0.1",
+  "main": [
+    "./src/less/libs.style.less",
+    "./src/js/libs/libs.combo.js"
+  ],
+  "dependencies": {
+    "Modernizr": "https://github.com/josh/sprockets-modernizr.git",
+    "jquery": "~1.9.1",
+    "enhance": "https://github.com/EtienneDion/enhance.js.git",
+    "monplugin": "https://github.com/jno84/xbower.git"
+  }
+}
