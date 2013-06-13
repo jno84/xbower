@@ -1,0 +1,35 @@
+{
+   "name":"xbower",
+   "title":"xBower",
+   "description":"an awesome plugin",
+   "keywords":[
+      "formation",
+      "tutoriel",
+      "nurun"
+   ],
+   "version":"1.0.0",
+   "author":{
+      "name":"Jean-Noel Benoit",
+      "url":"https://github.com/jno84/xbower/blob/master/AUTHORS.txt"
+   },
+   "maintainers":[
+      {
+         "name":"Martin",
+         "email":"toto@gmail.com",
+         "url":"http://google.com"
+      }
+   ],
+   "licenses":[
+      {
+         "type":"MIT",
+         "url":"https://github.com/jno84/xbower/blob/master/MIT-LICENSE.txt"
+      }
+   ],
+   "bugs":"",
+   "homepage":"",
+   "docs":"",
+   "download":"",
+   "dependencies":{
+      "jquery":">=1.8"
+}
+}
